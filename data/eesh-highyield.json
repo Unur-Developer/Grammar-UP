@@ -1,0 +1,302 @@
+[
+  {
+    "category": "Grammar",
+    "topic": "Tenses (esp. present perfect & used to)",
+    "frequency": "Very High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-grammar.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #1 in source Grammar frequency analysis; explicitly listed first under MUST MASTER in the study-priority map.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Grammar",
+    "topic": "Articles + Quantifiers",
+    "frequency": "High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-grammar.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #2 in source Grammar frequency analysis; \"Articles\" explicitly listed under MUST MASTER.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Grammar",
+    "topic": "Relative clauses",
+    "frequency": "High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-grammar.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #3 in source Grammar frequency analysis; explicitly listed under MUST MASTER as \"Relative\".",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Grammar",
+    "topic": "Passive + Reported speech",
+    "frequency": "High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-grammar.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #4 in source Grammar frequency analysis; both explicitly listed under MUST MASTER.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Grammar",
+    "topic": "Comparison / Adjective-Adverb forms",
+    "frequency": "Medium-High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-grammar.json for confirmed per-item point values",
+    "priority": "HIGH",
+    "reason": "Ranked #5 in source Grammar frequency analysis; explicitly listed under HIGH PRIORITY as \"Comparison\".",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Grammar",
+    "topic": "Conditionals",
+    "frequency": "Medium",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-grammar.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #6 in source Grammar frequency analysis; explicitly listed under MUST MASTER.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Grammar",
+    "topic": "Error identification",
+    "frequency": "Medium-High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-grammar.json for confirmed per-item point values",
+    "priority": "HIGH",
+    "reason": "Ranked #7 in source Grammar frequency analysis; explicitly listed under HIGH PRIORITY.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Grammar",
+    "topic": "Prepositions / Modals / Gerund-Infinitive",
+    "frequency": "Medium",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-grammar.json for confirmed per-item point values",
+    "priority": "MEDIUM",
+    "reason": "Ranked #8 in source Grammar frequency analysis; explicitly listed under MEDIUM PRIORITY.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Phrasal verbs",
+    "frequency": "Very High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-vocabulary.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #1 in source Vocabulary frequency analysis; explicitly listed under MUST MASTER (\"high-frequency phrasal verbs + particles\").",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Idioms",
+    "frequency": "High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-vocabulary.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #2 in source Vocabulary frequency analysis; explicitly listed under MUST MASTER.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Definition matching / Technical terms",
+    "frequency": "High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-vocabulary.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #3 in source Vocabulary frequency analysis; explicitly listed under MUST MASTER (\"definition sets\").",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Disaster / Weather / Crime / Media vocabulary",
+    "frequency": "Medium-High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-vocabulary.json for confirmed per-item point values",
+    "priority": "HIGH",
+    "reason": "Ranked #4 in source Vocabulary frequency analysis; grouped under HIGH PRIORITY (\"Disaster/Media vocabulary\").",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Personality adjectives + Quantifier containers",
+    "frequency": "Medium-High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-vocabulary.json for confirmed per-item point values",
+    "priority": "HIGH",
+    "reason": "Ranked #5 in source Vocabulary frequency analysis; grouped under HIGH PRIORITY (\"Personality adjectives\").",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Reading",
+    "topic": "Detail",
+    "frequency": "Very High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-reading.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #1 in source Reading frequency analysis; explicitly listed under MUST MASTER.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Reading",
+    "topic": "Main idea / Topic",
+    "frequency": "High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-reading.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #2 in source Reading frequency analysis; explicitly listed under MUST MASTER.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Reading",
+    "topic": "Reference",
+    "frequency": "High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-reading.json for confirmed per-item point values",
+    "priority": "MUST MASTER",
+    "reason": "Ranked #3 in source Reading frequency analysis; explicitly listed under MUST MASTER.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Reading",
+    "topic": "Inference / NOT true",
+    "frequency": "Medium",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-reading.json for confirmed per-item point values",
+    "priority": "MEDIUM",
+    "reason": "Ranked #4 in source Reading frequency analysis; \"longer reading inference\" explicitly listed under MEDIUM PRIORITY.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Reading",
+    "topic": "Purpose / Vocabulary in context",
+    "frequency": "Medium-Low",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-reading.json for confirmed per-item point values",
+    "priority": "MEDIUM",
+    "reason": "Ranked #5 (lowest) in source Reading frequency analysis; not separately named in the study-priority tiers, so MEDIUM is a reasonable placement rather than a directly stated tier.",
+    "sourceStatus": "inferred",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Communication",
+    "topic": "Functional response (invitation, knowledge, help, thanks)",
+    "frequency": "High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-communication.json for confirmed per-item point values",
+    "priority": "HIGH",
+    "reason": "Ranked #1 in source Communication frequency analysis; explicitly listed under HIGH PRIORITY (\"Functional communication phrases\").",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "category": "Communication",
+    "topic": "Appropriacy / Register",
+    "frequency": "High",
+    "yearCoverage": [
+      2019,
+      2020,
+      2021
+    ],
+    "pointImportance": "Varies by topic — see eesh-communication.json for confirmed per-item point values",
+    "priority": "HIGH",
+    "reason": "Ranked #2 in source Communication frequency analysis; grouped with functional communication under HIGH PRIORITY.",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  }
+]
