@@ -1,0 +1,514 @@
+[
+  {
+    "id": "ltv-a1-01",
+    "skill": "Vocabulary",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Family & People",
+    "question": "What is the meaning of the word \"daughter\"?",
+    "options": [
+      "A male child",
+      "A female child",
+      "A young animal",
+      "A close friend"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Daughter\" means a female child of a parent."
+  },
+  {
+    "id": "ltv-a1-02",
+    "skill": "Vocabulary",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Food & Drink",
+    "question": "I usually have ___ and eggs for breakfast.",
+    "options": [
+      "bread",
+      "chair",
+      "window",
+      "cloud"
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Bread\" is a common breakfast food; the other words don't fit the sentence."
+  },
+  {
+    "id": "ltv-a1-03",
+    "skill": "Vocabulary",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Numbers & Time",
+    "question": "What day comes after Tuesday?",
+    "options": [
+      "Monday",
+      "Wednesday",
+      "Sunday",
+      "Friday"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The days of the week in order: Monday, Tuesday, Wednesday..."
+  },
+  {
+    "id": "ltv-a1-04",
+    "skill": "Vocabulary",
+    "cefrLevel": "A1",
+    "difficulty": "medium",
+    "topic": "Weather",
+    "question": "If it is ___, you need an umbrella.",
+    "options": [
+      "sunny",
+      "rainy",
+      "hot",
+      "dry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You use an umbrella to stay dry when it's raining."
+  },
+  {
+    "id": "ltv-a2-01",
+    "skill": "Vocabulary",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Travel & Transport",
+    "question": "Which word means a place where you catch a train?",
+    "options": [
+      "airport",
+      "station",
+      "hospital",
+      "library"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A \"station\" is where trains stop for passengers."
+  },
+  {
+    "id": "ltv-a2-02",
+    "skill": "Vocabulary",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Work & Jobs",
+    "question": "A person who teaches students is called a ___.",
+    "options": [
+      "doctor",
+      "teacher",
+      "driver",
+      "farmer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A \"teacher\" is someone whose job is to teach."
+  },
+  {
+    "id": "ltv-a2-03",
+    "skill": "Vocabulary",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Shopping",
+    "question": "\"Expensive\" means ___.",
+    "options": [
+      "cheap",
+      "costs a lot of money",
+      "free",
+      "on sale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Expensive\" describes something that costs a lot of money."
+  },
+  {
+    "id": "ltv-a2-04",
+    "skill": "Vocabulary",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Health & Body",
+    "question": "If you have a headache, your ___ hurts.",
+    "options": [
+      "stomach",
+      "head",
+      "leg",
+      "ear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Headache\" is pain in the head."
+  },
+  {
+    "id": "ltv-a2-05",
+    "skill": "Vocabulary",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Feelings",
+    "question": "\"Excited\" means feeling ___.",
+    "options": [
+      "very sad",
+      "very bored",
+      "very happy and enthusiastic",
+      "very tired"
+    ],
+    "correctAnswer": 2,
+    "explanation": "\"Excited\" describes strong, happy enthusiasm about something."
+  },
+  {
+    "id": "ltv-a2-06",
+    "skill": "Vocabulary",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Education",
+    "question": "A \"timetable\" at school shows you ___.",
+    "options": [
+      "your friends' names",
+      "when your classes happen",
+      "your test results",
+      "the school address"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A timetable lists when and where each class takes place."
+  },
+  {
+    "id": "ltv-a2-07",
+    "skill": "Vocabulary",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Technology",
+    "question": "Which word means a small device used to make phone calls and send messages?",
+    "options": [
+      "oven",
+      "mobile phone",
+      "fridge",
+      "printer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A \"mobile phone\" is a portable device for calls and messages."
+  },
+  {
+    "id": "ltv-a2-08",
+    "skill": "Vocabulary",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Free Time & Hobbies",
+    "question": "\"Hobby\" means ___.",
+    "options": [
+      "a job you must do",
+      "an activity you enjoy in your free time",
+      "a type of food",
+      "a school subject"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A hobby is something you do for enjoyment in your spare time."
+  },
+  {
+    "id": "ltv-b1-01",
+    "skill": "Vocabulary",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Environment",
+    "question": "\"Pollution\" refers to ___.",
+    "options": [
+      "clean air and water",
+      "harmful substances damaging the environment",
+      "growing plants",
+      "recycling waste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pollution is the presence of harmful substances in the environment."
+  },
+  {
+    "id": "ltv-b1-02",
+    "skill": "Vocabulary",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Society & Community",
+    "question": "A \"community\" is ___.",
+    "options": [
+      "a single person living alone",
+      "a group of people living in the same area",
+      "a type of building",
+      "a kind of job"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A community is a group of people connected by where they live or shared interests."
+  },
+  {
+    "id": "ltv-b1-03",
+    "skill": "Vocabulary",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Personality & Character",
+    "question": "Someone who is \"reliable\" is a person you can ___.",
+    "options": [
+      "never trust",
+      "always depend on",
+      "rarely see",
+      "easily upset"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Reliable\" means dependable and trustworthy."
+  },
+  {
+    "id": "ltv-b1-04",
+    "skill": "Vocabulary",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Communication",
+    "question": "To \"apologize\" means to ___.",
+    "options": [
+      "say sorry for something wrong",
+      "ask a question",
+      "give a compliment",
+      "make a decision"
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Apologize\" means to express regret for a mistake."
+  },
+  {
+    "id": "ltv-b1-05",
+    "skill": "Vocabulary",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Travel & Culture",
+    "question": "A \"tradition\" is something that ___.",
+    "options": [
+      "happens only once",
+      "is passed down through generations in a culture",
+      "is against the law",
+      "has no meaning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A tradition is a custom passed from one generation to the next."
+  },
+  {
+    "id": "ltv-b1-06",
+    "skill": "Vocabulary",
+    "cefrLevel": "B1",
+    "difficulty": "hard",
+    "topic": "Education & Learning",
+    "question": "To \"concentrate\" means to ___.",
+    "options": [
+      "lose interest in something",
+      "give up on a task",
+      "focus your full attention on something",
+      "forget information quickly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "\"Concentrate\" means to direct all your attention to one thing."
+  },
+  {
+    "id": "ltv-b1-07",
+    "skill": "Vocabulary",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Health & Lifestyle",
+    "question": "A \"balanced diet\" means eating ___.",
+    "options": [
+      "only one type of food",
+      "a variety of healthy foods in the right amounts",
+      "as much food as possible",
+      "only sweet foods"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A balanced diet includes a healthy mix of different foods."
+  },
+  {
+    "id": "ltv-b1-08",
+    "skill": "Vocabulary",
+    "cefrLevel": "B1",
+    "difficulty": "hard",
+    "topic": "Work & Career",
+    "question": "A \"promotion\" at work means ___.",
+    "options": [
+      "losing your job",
+      "being moved to a higher position with more responsibility",
+      "working fewer hours",
+      "taking a holiday"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A promotion is an advancement to a higher position at work."
+  },
+  {
+    "id": "ltv-b1-09",
+    "skill": "Vocabulary",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Technology & Media",
+    "question": "\"Reliable information\" is information that is ___.",
+    "options": [
+      "false and misleading",
+      "accurate and can be trusted",
+      "old and outdated",
+      "funny and entertaining"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Reliable\" information can be trusted to be accurate."
+  },
+  {
+    "id": "ltv-b2-01",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Academic & Argument",
+    "question": "To \"analyze\" something means to ___.",
+    "options": [
+      "ignore its details",
+      "examine it carefully to understand it",
+      "copy it exactly",
+      "avoid discussing it"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Analyze\" means to examine something in detail to understand it."
+  },
+  {
+    "id": "ltv-b2-02",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Environment & Sustainability",
+    "question": "\"Sustainable\" development means development that ___.",
+    "options": [
+      "uses all resources quickly without limits",
+      "meets present needs without harming future generations",
+      "only benefits large companies",
+      "ignores environmental effects"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Sustainable\" means able to continue without permanently damaging resources for the future."
+  },
+  {
+    "id": "ltv-b2-03",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Work & Achievement",
+    "question": "To \"achieve\" a goal means to ___.",
+    "options": [
+      "give up before finishing",
+      "successfully complete or reach it",
+      "forget about it",
+      "delay it indefinitely"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Achieve\" means to successfully accomplish something."
+  },
+  {
+    "id": "ltv-b2-04",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Technology & Innovation",
+    "question": "An \"innovative\" idea is one that is ___.",
+    "options": [
+      "old and traditional",
+      "new, original, and creative",
+      "copied from someone else",
+      "boring and predictable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Innovative\" describes something new and original."
+  },
+  {
+    "id": "ltv-b2-05",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Psychology & Behavior",
+    "question": "To be \"motivated\" means to ___.",
+    "options": [
+      "have no interest in doing something",
+      "have a strong reason or desire to do something",
+      "feel confused about a task",
+      "avoid making decisions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Motivated\" describes having a strong drive or reason to act."
+  },
+  {
+    "id": "ltv-b2-06",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Communication & Media",
+    "question": "\"Objective\" information is information that is ___.",
+    "options": [
+      "based only on personal opinion",
+      "based on facts and not influenced by feelings",
+      "written only for entertainment",
+      "impossible to verify"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Objective\" means based on facts rather than personal feelings or opinions."
+  },
+  {
+    "id": "ltv-b2-07",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Economy",
+    "question": "\"Consumers\" are people who ___.",
+    "options": [
+      "produce and sell goods",
+      "buy and use goods and services",
+      "work in government",
+      "study economics"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Consumers\" are people who purchase and use products or services."
+  },
+  {
+    "id": "ltv-b2-08",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Education",
+    "question": "A \"curriculum\" refers to ___.",
+    "options": [
+      "a school building",
+      "the subjects and content taught in a course",
+      "a type of exam",
+      "a teacher's salary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A curriculum is the set of subjects and content taught in a course of study."
+  },
+  {
+    "id": "ltv-b2-09",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Global Issues",
+    "question": "\"Poverty\" refers to the condition of ___.",
+    "options": [
+      "having a great amount of money",
+      "not having enough money to meet basic needs",
+      "working in a foreign country",
+      "studying at university"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Poverty\" means the state of lacking enough money for basic needs."
+  },
+  {
+    "id": "ltv-b2-11",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Academic & Argument",
+    "question": "To \"justify\" a decision means to ___.",
+    "options": [
+      "ignore any criticism of it",
+      "give good reasons to explain why it is right",
+      "cancel it completely",
+      "keep it a secret"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Justify\" means to give valid reasons for a decision or action."
+  },
+  {
+    "id": "ltv-b2-12",
+    "skill": "Vocabulary",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Society & Politics",
+    "question": "A \"policy\" is ___.",
+    "options": [
+      "a personal opinion with no effect",
+      "an official plan of action adopted by a government or organization",
+      "a type of law court",
+      "a private diary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A policy is an official course of action adopted by an organization or government."
+  }
+]

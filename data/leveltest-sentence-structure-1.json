@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ss-a1-01",
+    "skill": "Sentence Structure",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Basic Word Order",
+    "question": "Which sentence has the correct word order?",
+    "options": [
+      "She a book reads.",
+      "She reads a book.",
+      "Reads she a book.",
+      "Book she reads a."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Basic English word order is Subject + Verb + Object, so \"She reads a book\" is correct."
+  },
+  {
+    "id": "ss-a1-03",
+    "skill": "Sentence Structure",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Simple Sentence Formation",
+    "question": "Put the words in the correct order: \"dog / big / a / have / I\"",
+    "options": [
+      "I have a big dog.",
+      "I a big dog have.",
+      "Have I a big dog.",
+      "Big I have a dog."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct order is Subject + verb + article + adjective + noun: \"I have a big dog.\""
+  },
+  {
+    "id": "ss-a2-01",
+    "skill": "Sentence Structure",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Question Formation",
+    "question": "Choose the correct question.",
+    "options": [
+      "Where you are going?",
+      "Where are you going?",
+      "Where going you are?",
+      "You are going where?"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wh-questions with \"be\" follow the order Wh-word + auxiliary/be + subject: \"Where are you going?\""
+  },
+  {
+    "id": "ss-a2-03",
+    "skill": "Sentence Structure",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Negatives",
+    "question": "Choose the correct negative sentence.",
+    "options": [
+      "I don't like coffee.",
+      "I not like coffee.",
+      "I no like coffee.",
+      "I like not coffee."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The negative present simple is formed with \"don't/doesn't\" + base verb: \"I don't like coffee.\""
+  },
+  {
+    "id": "ss-a2-05",
+    "skill": "Sentence Structure",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Conjunctions",
+    "question": "Choose the sentence that correctly uses \"because.\"",
+    "options": [
+      "I stayed home because it was raining.",
+      "I stayed home it was raining because.",
+      "Because it was raining I stayed home it.",
+      "I stayed because home it was raining."
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Because\" introduces a reason clause after the main clause: \"I stayed home because it was raining.\""
+  },
+  {
+    "id": "ss-b1-01",
+    "skill": "Sentence Structure",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Relative Clauses",
+    "question": "Choose the sentence with the correct relative clause.",
+    "options": [
+      "The man who lives next door is a doctor.",
+      "The man which lives next door is a doctor.",
+      "The man he lives next door is a doctor.",
+      "The man lives next door who is a doctor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Who\" is used for people as the subject of a relative clause: \"The man who lives next door...\""
+  },
+  {
+    "id": "ss-b1-03",
+    "skill": "Sentence Structure",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Connectors",
+    "question": "Choose the sentence that correctly uses \"although.\"",
+    "options": [
+      "Although it was raining, we went for a walk.",
+      "It was raining although we went for a walk it.",
+      "We went for a walk it was raining although.",
+      "Although we went for a walk, but it was raining."
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Although\" introduces a contrasting clause, usually followed by a comma and the main clause: \"Although it was raining, we went for a walk.\""
+  },
+  {
+    "id": "ss-b1-04",
+    "skill": "Sentence Structure",
+    "cefrLevel": "B1",
+    "difficulty": "hard",
+    "topic": "Sentence Transformation",
+    "question": "Which sentence best combines \"She finished her homework.\" and \"She went to bed.\" to show the correct sequence of events?",
+    "options": [
+      "After she finished her homework, she went to bed.",
+      "She finished her homework after went to bed.",
+      "She went to bed after finish her homework.",
+      "After finished her homework she went to bed she."
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"After\" + subject + past simple clause, followed by the main clause, correctly shows the order of the two actions: \"After she finished her homework, she went to bed.\""
+  },
+  {
+    "id": "ss-b2-01",
+    "skill": "Sentence Structure",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Inversion",
+    "question": "Choose the sentence with correct inversion after a negative adverbial.",
+    "options": [
+      "Never I have seen such a beautiful sunset.",
+      "Never have I seen such a beautiful sunset.",
+      "I have never seen such a beautiful sunset never.",
+      "Never seen I have such a beautiful sunset."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a negative adverbial like \"Never\" starts a sentence, it triggers subject-auxiliary inversion: \"Never have I seen...\""
+  },
+  {
+    "id": "ss-b2-02",
+    "skill": "Sentence Structure",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Cleft Sentences",
+    "question": "Choose the sentence that correctly uses a cleft structure to emphasize \"the manager.\"",
+    "options": [
+      "It was the manager who made the final decision.",
+      "It was the manager made the final decision who.",
+      "The manager it was who made the final decision.",
+      "Who made the final decision it was the manager."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cleft structure \"It was + noun phrase + who/that + clause\" is used for emphasis: \"It was the manager who made the final decision.\""
+  },
+  {
+    "id": "ss-b2-03",
+    "skill": "Sentence Structure",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Participle Clauses",
+    "question": "Choose the sentence with the correctly formed participle clause.",
+    "options": [
+      "Having finished the report, she left the office.",
+      "Having finish the report, she left the office.",
+      "Finished having the report, she left the office.",
+      "She left the office, having the report finished."
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Having + past participle\" forms a participle clause showing a completed action before the main clause: \"Having finished the report, she left the office.\""
+  },
+  {
+    "id": "ss-b2-04",
+    "skill": "Sentence Structure",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Nuanced Sentence Construction",
+    "question": "Choose the sentence that correctly uses \"not only... but also.\"",
+    "options": [
+      "Not only she was late, but also she forgot her keys.",
+      "Not only was she late, but she also forgot her keys.",
+      "She was not only late but also she forgot her keys.",
+      "Not only late she was, but also forgot her keys."
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Not only\" at the start of a clause requires inversion (\"was she\"), while \"but also\" naturally links the second part: \"Not only was she late, but she also forgot her keys.\""
+  }
+]

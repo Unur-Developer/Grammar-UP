@@ -1,0 +1,546 @@
+[
+  {
+    "id": "ltg-a1-01",
+    "skill": "Grammar",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Present Simple",
+    "question": "My brother ___ football every weekend.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "played"
+    ],
+    "correctAnswer": 1,
+    "explanation": "With he/she/it, add \"-s\" to the base verb: \"plays\"."
+  },
+  {
+    "id": "ltg-a1-02",
+    "skill": "Grammar",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Be verb",
+    "question": "___ you a teacher?",
+    "options": [
+      "Is",
+      "Are",
+      "Am",
+      "Be"
+    ],
+    "correctAnswer": 1,
+    "explanation": "With \"you\", the be verb is always \"are\": \"Are you...?\"."
+  },
+  {
+    "id": "ltg-a1-03",
+    "skill": "Grammar",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Have / Has",
+    "question": "She ___ two brothers and one sister.",
+    "options": [
+      "have",
+      "has",
+      "having",
+      "had"
+    ],
+    "correctAnswer": 1,
+    "explanation": "With he/she/it, use \"has\", not \"have\"."
+  },
+  {
+    "id": "ltg-a1-04",
+    "skill": "Grammar",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "There is / There are",
+    "question": "___ a cat under the table.",
+    "options": [
+      "There is",
+      "There are",
+      "There am",
+      "There be"
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"A cat\" is singular, so use \"There is\"."
+  },
+  {
+    "id": "ltg-a1-05",
+    "skill": "Grammar",
+    "cefrLevel": "A1",
+    "difficulty": "medium",
+    "topic": "Articles",
+    "question": "I saw ___ elephant at the zoo yesterday.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Elephant\" starts with a vowel sound, so use \"an\"."
+  },
+  {
+    "id": "ltg-a1-06",
+    "skill": "Grammar",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Plurals",
+    "question": "How many ___ do you have?",
+    "options": [
+      "child",
+      "childs",
+      "children",
+      "childrens"
+    ],
+    "correctAnswer": 2,
+    "explanation": "\"Child\" has an irregular plural: \"children\"."
+  },
+  {
+    "id": "ltg-a2-01",
+    "skill": "Grammar",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Past Simple — Irregular Verbs",
+    "question": "She ___ to Japan last summer.",
+    "options": [
+      "go",
+      "goed",
+      "went",
+      "gone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "\"Go\" is irregular in the past: \"went\", not \"goed\"."
+  },
+  {
+    "id": "ltg-a2-02",
+    "skill": "Grammar",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Comparative Adjectives",
+    "question": "Tokyo is ___ than Ulaanbaatar.",
+    "options": [
+      "big",
+      "bigger",
+      "biggest",
+      "more big"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Short adjectives add \"-er\" for the comparative: \"bigger\"."
+  },
+  {
+    "id": "ltg-a2-03",
+    "skill": "Grammar",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Superlative Adjectives",
+    "question": "This is ___ movie I've ever seen.",
+    "options": [
+      "good",
+      "better",
+      "the best",
+      "the goodest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "\"Good\" is irregular: comparative \"better\", superlative \"the best\"."
+  },
+  {
+    "id": "ltg-a2-04",
+    "skill": "Grammar",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Future — \"going to\"",
+    "question": "Look at those clouds! It ___ rain.",
+    "options": [
+      "will",
+      "is going to",
+      "goes to",
+      "going"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Going to\" is used for predictions based on present evidence, like dark clouds."
+  },
+  {
+    "id": "ltg-a2-05",
+    "skill": "Grammar",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Present Continuous for Future Plans",
+    "question": "I ___ my grandmother tomorrow afternoon.",
+    "options": [
+      "visit",
+      "am visiting",
+      "visited",
+      "will visited"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A fixed future arrangement uses Present Continuous: \"am visiting\"."
+  },
+  {
+    "id": "ltg-a2-06",
+    "skill": "Grammar",
+    "cefrLevel": "A2",
+    "difficulty": "hard",
+    "topic": "Some / Any Compounds",
+    "question": "I looked everywhere but I couldn't find ___ to help me.",
+    "options": [
+      "someone",
+      "anyone",
+      "something",
+      "anything"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Negative sentences use \"any-\" compounds: \"anyone\", not \"someone\"."
+  },
+  {
+    "id": "ltg-b1-01",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Present Perfect",
+    "question": "I ___ my homework already.",
+    "options": [
+      "do",
+      "did",
+      "have done",
+      "having done"
+    ],
+    "correctAnswer": 2,
+    "explanation": "\"Already\" with a recent result signals Present Perfect: \"have done\"."
+  },
+  {
+    "id": "ltg-b1-03",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Present Perfect Continuous",
+    "question": "I'm tired because I ___ all day.",
+    "options": [
+      "work",
+      "worked",
+      "have been working",
+      "has worked"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Present Perfect Continuous emphasizes a recent, ongoing activity causing a present result."
+  },
+  {
+    "id": "ltg-b1-04",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Past Continuous",
+    "question": "While I ___ dinner, the phone rang.",
+    "options": [
+      "cook",
+      "cooked",
+      "was cooking",
+      "have cooked"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An action in progress when something else happened uses Past Continuous."
+  },
+  {
+    "id": "ltg-b1-05",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Used to",
+    "question": "I ___ play tennis every weekend when I was younger.",
+    "options": [
+      "use to",
+      "used to",
+      "was used",
+      "using to"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Used to\" describes a past habit that no longer happens."
+  },
+  {
+    "id": "ltg-b1-06",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "First Conditional",
+    "question": "If it rains tomorrow, we ___ the picnic.",
+    "options": [
+      "cancel",
+      "will cancel",
+      "cancelled",
+      "would cancel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "First Conditional: if + present simple, ... will + base verb."
+  },
+  {
+    "id": "ltg-b1-07",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Modals of Obligation",
+    "question": "You ___ wear a seatbelt in this country — it's the law.",
+    "options": [
+      "can",
+      "might",
+      "must",
+      "would"
+    ],
+    "correctAnswer": 2,
+    "explanation": "\"Must\" expresses a strong obligation, like a legal requirement."
+  },
+  {
+    "id": "ltg-b1-08",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "hard",
+    "topic": "Gerunds & Infinitives",
+    "question": "She enjoys ___ new places when she travels.",
+    "options": [
+      "visit",
+      "to visit",
+      "visiting",
+      "visited"
+    ],
+    "correctAnswer": 2,
+    "explanation": "\"Enjoy\" is followed by a gerund (\"-ing\" form): \"visiting\"."
+  },
+  {
+    "id": "ltg-b1-09",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "hard",
+    "topic": "Relative Clauses",
+    "question": "The man ___ lives next door is a doctor.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Who\" refers to people as the subject of the relative clause."
+  },
+  {
+    "id": "ltg-b1-10",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "hard",
+    "topic": "Conditionals — Zero, First & Second",
+    "question": "If I ___ more time, I would learn another language.",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "having"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Second Conditional: if + past simple, ... would + base verb, for an unreal present situation."
+  },
+  {
+    "id": "ltg-b1-11",
+    "skill": "Grammar",
+    "cefrLevel": "B1",
+    "difficulty": "hard",
+    "topic": "Perfect & Continuous — Choosing the Right Tense",
+    "question": "By the time we arrived, the film ___.",
+    "options": [
+      "already started",
+      "had already started",
+      "has already started",
+      "was already starting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An earlier past action finished before another past action needs Past Perfect: \"had already started\"."
+  },
+  {
+    "id": "ltg-b2-01",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Future Perfect & Future Continuous",
+    "question": "By next year, I ___ here for a decade.",
+    "options": [
+      "will work",
+      "will have worked",
+      "am working",
+      "worked"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An action completed by a future point uses Future Perfect: \"will have worked\"."
+  },
+  {
+    "id": "ltg-b2-02",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Past Perfect Continuous",
+    "question": "He was exhausted because he ___ all night.",
+    "options": [
+      "was working",
+      "had been working",
+      "has worked",
+      "worked"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Past Perfect Continuous shows the ongoing cause of a later past result: \"had been working\"."
+  },
+  {
+    "id": "ltg-b2-03",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Narrative Tenses",
+    "question": "By the time the police arrived, the thief ___.",
+    "options": [
+      "escaped",
+      "had escaped",
+      "has escaped",
+      "was escaping"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The escape happened before the police arrived, so use Past Perfect: \"had escaped\"."
+  },
+  {
+    "id": "ltg-b2-04",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Mixed Conditionals",
+    "question": "If I ___ harder at school, I would have a better job now.",
+    "options": [
+      "studied",
+      "had studied",
+      "study",
+      "have studied"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A mixed conditional links a past unreal condition to a present result: \"had studied\" + \"would have\"."
+  },
+  {
+    "id": "ltg-b2-05",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Modals of Deduction — Present & Past",
+    "question": "The lights are off, so they ___ have left already.",
+    "options": [
+      "must",
+      "can",
+      "should",
+      "would"
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Must have\" expresses a confident deduction about the past based on evidence."
+  },
+  {
+    "id": "ltg-b2-06",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Wishes & Regrets",
+    "question": "I wish I ___ harder for the exam.",
+    "options": [
+      "study",
+      "studied",
+      "had studied",
+      "have studied"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A regret about the past uses \"wish\" + past perfect: \"had studied\"."
+  },
+  {
+    "id": "ltg-b2-07",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Advanced Relative Clauses",
+    "question": "The book, ___ I borrowed from the library, was fascinating.",
+    "options": [
+      "that",
+      "which",
+      "who",
+      "whom"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non-defining relative clauses (set off by commas) use \"which\", not \"that\"."
+  },
+  {
+    "id": "ltg-b2-08",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Participle Clauses",
+    "question": "___ the instructions carefully, she started the experiment.",
+    "options": [
+      "Read",
+      "Reading",
+      "Having read",
+      "To read"
+    ],
+    "correctAnswer": 2,
+    "explanation": "\"Having read\" shows the action was completed before the next action began."
+  },
+  {
+    "id": "ltg-b2-09",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Complex Conjunctions & Linking Words",
+    "question": "___ the heavy rain, the match continued.",
+    "options": [
+      "Despite",
+      "Although",
+      "However",
+      "Because"
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Despite\" is followed directly by a noun phrase, unlike \"although\", which needs a clause."
+  },
+  {
+    "id": "ltg-b2-10",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Inversion",
+    "question": "___ had I arrived home when the phone rang.",
+    "options": [
+      "No sooner",
+      "Not until",
+      "Hardly",
+      "Only after"
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"No sooner had I... when...\" is a fixed inverted structure for two closely-timed events."
+  },
+  {
+    "id": "ltg-b2-11",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Advanced Passive Voice",
+    "question": "It is believed that the missing hikers ___ found soon.",
+    "options": [
+      "will",
+      "will be",
+      "are",
+      "would be"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The hikers don't do the finding, so the passive is needed: \"will be found\"."
+  },
+  {
+    "id": "ltg-b2-12",
+    "skill": "Grammar",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Advanced Reported Speech",
+    "question": "He asked me ___ I had finished the report.",
+    "options": [
+      "that",
+      "if",
+      "what",
+      "so"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reported yes/no questions use \"if\" or \"whether\" to introduce the clause."
+  }
+]
