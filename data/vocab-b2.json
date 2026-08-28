@@ -1,0 +1,122 @@
+[
+  {
+    "id": "b2-001",
+    "word": "accumulate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "meaning": "to gradually gather or increase in quantity over time",
+    "translation": "хуримтлуулах, хуримтлагдах",
+    "example": "Dust had accumulated on the shelves.",
+    "topic": "Academic",
+    "commonness": "medium",
+    "examRelevance": "medium"
+  },
+  {
+    "id": "b2-002",
+    "word": "ambiguous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "meaning": "having more than one possible meaning; unclear",
+    "translation": "хоёрдмол утгатай, тодорхой бус",
+    "example": "The instructions were ambiguous and confused everyone.",
+    "topic": "Academic",
+    "commonness": "medium",
+    "examRelevance": "high"
+  },
+  {
+    "id": "b2-003",
+    "word": "comprehensive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "meaning": "complete and including everything that is necessary",
+    "translation": "иж бүрэн, цогц",
+    "example": "The report gives a comprehensive overview of the market.",
+    "topic": "Academic",
+    "commonness": "high",
+    "examRelevance": "high"
+  },
+  {
+    "id": "b2-004",
+    "word": "controversial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "meaning": "causing disagreement or public argument",
+    "translation": "маргаантай",
+    "example": "It's a controversial topic among scientists.",
+    "topic": "Society",
+    "commonness": "medium",
+    "examRelevance": "high"
+  },
+  {
+    "id": "b2-005",
+    "word": "despite",
+    "level": "B2",
+    "partOfSpeech": "preposition",
+    "meaning": "without being affected by; in spite of",
+    "translation": "...г үл харгалзан, ...ч гэсэн",
+    "example": "Despite the rain, they went for a walk.",
+    "topic": "Academic",
+    "commonness": "high",
+    "examRelevance": "high"
+  },
+  {
+    "id": "b2-006",
+    "word": "inevitable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "meaning": "certain to happen and impossible to avoid",
+    "translation": "зайлшгүй, гарцаагүй тохиолдох",
+    "example": "Change is inevitable in any growing business.",
+    "topic": "Academic",
+    "commonness": "medium",
+    "examRelevance": "medium"
+  },
+  {
+    "id": "b2-007",
+    "word": "justify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "meaning": "to give a good reason for an action or decision",
+    "translation": "үндэслэх, зөвтгөх",
+    "example": "She couldn't justify the extra expense.",
+    "topic": "Academic",
+    "commonness": "medium",
+    "examRelevance": "high"
+  },
+  {
+    "id": "b2-008",
+    "word": "perspective",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "meaning": "a particular way of viewing or thinking about something",
+    "translation": "үзэл бодол, хандлага",
+    "example": "Try to see the problem from her perspective.",
+    "topic": "Communication",
+    "commonness": "high",
+    "examRelevance": "medium"
+  },
+  {
+    "id": "b2-009",
+    "word": "substantial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "meaning": "large in size, value, or importance",
+    "translation": "ихээхэн, чухал хэмжээний",
+    "example": "They made substantial progress on the project.",
+    "topic": "Academic",
+    "commonness": "medium",
+    "examRelevance": "high"
+  },
+  {
+    "id": "b2-010",
+    "word": "thorough",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "meaning": "done carefully and completely, with attention to every detail",
+    "translation": "нухацтай, нарийвчилсан",
+    "example": "The police conducted a thorough investigation.",
+    "topic": "Society",
+    "commonness": "medium",
+    "examRelevance": "medium"
+  }
+]
