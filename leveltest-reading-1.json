@@ -1,0 +1,410 @@
+[
+  {
+    "id": "read-a1-01",
+    "skill": "Reading",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Daily Routine",
+    "passage": "My name is Anna. I wake up at seven o'clock every morning. I eat breakfast with my family. Then I go to school by bus. School starts at eight thirty. After school, I play with my friends. I go to bed at nine o'clock.",
+    "question": "What is this text mainly about?",
+    "options": [
+      "Anna's daily routine",
+      "Anna's school subjects",
+      "Anna's family trip",
+      "Anna's favorite bus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The text describes what Anna does from waking up to going to bed, so it is about her daily routine."
+  },
+  {
+    "id": "read-a1-02",
+    "skill": "Reading",
+    "cefrLevel": "A1",
+    "difficulty": "medium",
+    "topic": "Daily Routine",
+    "passage": "My name is Anna. I wake up at seven o'clock every morning. I eat breakfast with my family. Then I go to school by bus. School starts at eight thirty. After school, I play with my friends. I go to bed at nine o'clock.",
+    "question": "What time does school start?",
+    "options": [
+      "Seven o'clock",
+      "Eight o'clock",
+      "Eight thirty",
+      "Nine o'clock"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The text says \"School starts at eight thirty,\" so eight thirty is correct."
+  },
+  {
+    "id": "read-a1-03",
+    "skill": "Reading",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Daily Routine",
+    "passage": "My name is Anna. I wake up at seven o'clock every morning. I eat breakfast with my family. Then I go to school by bus. School starts at eight thirty. After school, I play with my friends. I go to bed at nine o'clock.",
+    "question": "How does Anna go to school?",
+    "options": [
+      "By car",
+      "By bus",
+      "By bike",
+      "On foot"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The text says \"I go to school by bus,\" so the answer is by bus."
+  },
+  {
+    "id": "read-a1-04",
+    "skill": "Reading",
+    "cefrLevel": "A1",
+    "difficulty": "easy",
+    "topic": "Notices and Signs",
+    "passage": "Sunshine Cafe. Open Monday to Friday, 8 AM to 6 PM. Closed on Saturday and Sunday. We sell coffee, tea, and cake.",
+    "question": "On which days is Sunshine Cafe closed?",
+    "options": [
+      "Monday and Friday",
+      "Saturday and Sunday",
+      "Only Sunday",
+      "It is never closed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sign says \"Closed on Saturday and Sunday,\" so those are the days it is not open."
+  },
+  {
+    "id": "read-a1-05",
+    "skill": "Reading",
+    "cefrLevel": "A1",
+    "difficulty": "medium",
+    "topic": "Notices and Signs",
+    "passage": "Sunshine Cafe. Open Monday to Friday, 8 AM to 6 PM. Closed on Saturday and Sunday. We sell coffee, tea, and cake.",
+    "question": "In this sign, what does the word \"closed\" mean?",
+    "options": [
+      "Open for business",
+      "Not open",
+      "Very busy",
+      "Cheap"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Closed\" is the opposite of \"open\" — it means the cafe is not open for business on those days."
+  },
+  {
+    "id": "read-a1-06",
+    "skill": "Reading",
+    "cefrLevel": "A1",
+    "difficulty": "medium",
+    "topic": "Notices and Signs",
+    "passage": "Sunshine Cafe. Open Monday to Friday, 8 AM to 6 PM. Closed on Saturday and Sunday. We sell coffee, tea, and cake.",
+    "question": "What kind of place is Sunshine Cafe?",
+    "options": [
+      "A school",
+      "A place that sells coffee, tea, and cake",
+      "A hospital",
+      "A bus station"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sign says \"We sell coffee, tea, and cake,\" showing it is a cafe."
+  },
+  {
+    "id": "read-a2-01",
+    "skill": "Reading",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Weather and Plans",
+    "passage": "Tomorrow, the weather in Ulaanbaatar will be cold and windy. In the morning, the temperature will be minus fifteen degrees. It will get a little warmer in the afternoon, reaching minus eight degrees. There will be no snow, but people should wear warm clothes because of the strong wind. In the evening, the wind will become calmer.",
+    "question": "What will the temperature be in the morning?",
+    "options": [
+      "Minus eight degrees",
+      "Minus fifteen degrees",
+      "Zero degrees",
+      "Minus twenty degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage states the morning temperature will be minus fifteen degrees."
+  },
+  {
+    "id": "read-a2-02",
+    "skill": "Reading",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Weather and Plans",
+    "passage": "Tomorrow, the weather in Ulaanbaatar will be cold and windy. In the morning, the temperature will be minus fifteen degrees. It will get a little warmer in the afternoon, reaching minus eight degrees. There will be no snow, but people should wear warm clothes because of the strong wind. In the evening, the wind will become calmer.",
+    "question": "Why should people wear warm clothes, according to the passage?",
+    "options": [
+      "Because it will snow heavily",
+      "Because of the strong wind",
+      "Because the sun will not shine",
+      "Because it will rain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage says people should wear warm clothes \"because of the strong wind,\" not because of snow or rain."
+  },
+  {
+    "id": "read-a2-03",
+    "skill": "Reading",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Weather and Plans",
+    "passage": "Tomorrow, the weather in Ulaanbaatar will be cold and windy. In the morning, the temperature will be minus fifteen degrees. It will get a little warmer in the afternoon, reaching minus eight degrees. There will be no snow, but people should wear warm clothes because of the strong wind. In the evening, the wind will become calmer.",
+    "question": "What type of text is this?",
+    "options": [
+      "A travel guide to Ulaanbaatar",
+      "A weather forecast",
+      "An advertisement for winter clothing",
+      "A weekend event schedule"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The whole passage describes tomorrow's temperature and wind conditions, so it is a weather forecast."
+  },
+  {
+    "id": "read-a2-04",
+    "skill": "Reading",
+    "cefrLevel": "A2",
+    "difficulty": "easy",
+    "topic": "Messages and Emails",
+    "passage": "Hi Sarah, I'm sorry, but I can't meet you at the library at 3 PM today. My little brother is sick, and I have to stay home and take care of him. Can we meet tomorrow instead, at the same time? Please let me know if that works for you. Thanks, Dolgor",
+    "question": "Why can't Dolgor meet Sarah today?",
+    "options": [
+      "She is sick herself",
+      "Her little brother is sick",
+      "She has to work",
+      "She forgot about the plan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolgor writes, \"My little brother is sick, and I have to stay home and take care of him,\" which is her reason."
+  },
+  {
+    "id": "read-a2-05",
+    "skill": "Reading",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Messages and Emails",
+    "passage": "Hi Sarah, I'm sorry, but I can't meet you at the library at 3 PM today. My little brother is sick, and I have to stay home and take care of him. Can we meet tomorrow instead, at the same time? Please let me know if that works for you. Thanks, Dolgor",
+    "question": "In the message, what does \"that\" refer to in the sentence \"Please let me know if that works for you\"?",
+    "options": [
+      "Meeting at the library today",
+      "Meeting tomorrow at the same time",
+      "Staying home with her brother",
+      "Going to school"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"That\" refers back to the plan just mentioned — meeting tomorrow at the same time."
+  },
+  {
+    "id": "read-a2-06",
+    "skill": "Reading",
+    "cefrLevel": "A2",
+    "difficulty": "medium",
+    "topic": "Messages and Emails",
+    "passage": "Hi Sarah, I'm sorry, but I can't meet you at the library at 3 PM today. My little brother is sick, and I have to stay home and take care of him. Can we meet tomorrow instead, at the same time? Please let me know if that works for you. Thanks, Dolgor",
+    "question": "What is the main purpose of this message?",
+    "options": [
+      "To invite Sarah to a party",
+      "To cancel today's meeting and suggest a new time",
+      "To complain about her brother",
+      "To ask Sarah for homework help"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolgor explains she cannot meet today and proposes meeting tomorrow instead, so the message's purpose is to cancel and reschedule."
+  },
+  {
+    "id": "read-b1-01",
+    "skill": "Reading",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Reading Habits",
+    "passage": "In recent years, more and more young people in Mongolia have started reading e-books instead of paper books. Some say this is because e-books are cheaper and easier to carry, especially for students who travel between the countryside and the city for school. Others argue that reading on a screen makes it harder to focus for a long time, and that paper books are better for remembering what you read. Despite this debate, bookstores in Ulaanbaatar report that sales of paper books have not dropped much, suggesting that many readers still enjoy holding a real book in their hands.",
+    "question": "What is the main topic of this passage?",
+    "options": [
+      "A comparison of e-book and paper book reading habits among young Mongolians",
+      "A history of bookstores in Ulaanbaatar",
+      "The reasons why students travel to the city",
+      "A study on screen time and eyesight"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage discusses reasons for and against e-books versus paper books among young Mongolian readers, which is its main topic."
+  },
+  {
+    "id": "read-b1-02",
+    "skill": "Reading",
+    "cefrLevel": "B1",
+    "difficulty": "hard",
+    "topic": "Reading Habits",
+    "passage": "In recent years, more and more young people in Mongolia have started reading e-books instead of paper books. Some say this is because e-books are cheaper and easier to carry, especially for students who travel between the countryside and the city for school. Others argue that reading on a screen makes it harder to focus for a long time, and that paper books are better for remembering what you read. Despite this debate, bookstores in Ulaanbaatar report that sales of paper books have not dropped much, suggesting that many readers still enjoy holding a real book in their hands.",
+    "question": "What can be inferred about students who travel between the countryside and the city?",
+    "options": [
+      "They prefer paper books because they are lighter to hold",
+      "They find e-books convenient because they are easy to carry while traveling",
+      "They do not read books at all",
+      "They only read books once they arrive in the countryside"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage links e-books being \"cheaper and easier to carry\" directly to students who travel, implying portability is why they favor e-books."
+  },
+  {
+    "id": "read-b1-03",
+    "skill": "Reading",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Reading Habits",
+    "passage": "In recent years, more and more young people in Mongolia have started reading e-books instead of paper books. Some say this is because e-books are cheaper and easier to carry, especially for students who travel between the countryside and the city for school. Others argue that reading on a screen makes it harder to focus for a long time, and that paper books are better for remembering what you read. Despite this debate, bookstores in Ulaanbaatar report that sales of paper books have not dropped much, suggesting that many readers still enjoy holding a real book in their hands.",
+    "question": "In this passage, the word \"debate\" most nearly means:",
+    "options": [
+      "Complete agreement",
+      "A disagreement or discussion between different views",
+      "A type of book",
+      "A special sale on books"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Debate\" here refers to the ongoing disagreement between people who favor e-books and those who favor paper books."
+  },
+  {
+    "id": "read-b1-04",
+    "skill": "Reading",
+    "cefrLevel": "B1",
+    "difficulty": "easy",
+    "topic": "Personal Narrative",
+    "passage": "When I started volunteering at the animal shelter last spring, I expected the work to be simple: feed the animals, clean the cages, and go home. On my first day, however, I quickly realized how demanding the job actually was. Many of the dogs and cats had been abandoned and were nervous around new people, so I had to move slowly and speak softly to earn their trust. By the end of the week, I was exhausted, but I also felt something I hadn't expected \u2014 a strong sense of purpose. I realized that patience, not speed, was the most valuable skill a volunteer could have.",
+    "question": "What kind of animals were at the shelter?",
+    "options": [
+      "Only dogs",
+      "Only cats",
+      "Dogs and cats",
+      "Birds and dogs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage mentions \"the dogs and cats had been abandoned,\" so both kinds of animals were at the shelter."
+  },
+  {
+    "id": "read-b1-05",
+    "skill": "Reading",
+    "cefrLevel": "B1",
+    "difficulty": "medium",
+    "topic": "Personal Narrative",
+    "passage": "When I started volunteering at the animal shelter last spring, I expected the work to be simple: feed the animals, clean the cages, and go home. On my first day, however, I quickly realized how demanding the job actually was. Many of the dogs and cats had been abandoned and were nervous around new people, so I had to move slowly and speak softly to earn their trust. By the end of the week, I was exhausted, but I also felt something I hadn't expected \u2014 a strong sense of purpose. I realized that patience, not speed, was the most valuable skill a volunteer could have.",
+    "question": "Why did the writer need to move slowly and speak softly?",
+    "options": [
+      "Because the animals were sleeping",
+      "Because the animals were nervous and had been abandoned",
+      "Because the shelter had strict rules about noise",
+      "Because the writer was tired"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage explains the animals \"had been abandoned and were nervous around new people,\" which is why the writer moved and spoke gently."
+  },
+  {
+    "id": "read-b1-06",
+    "skill": "Reading",
+    "cefrLevel": "B1",
+    "difficulty": "hard",
+    "topic": "Personal Narrative",
+    "passage": "When I started volunteering at the animal shelter last spring, I expected the work to be simple: feed the animals, clean the cages, and go home. On my first day, however, I quickly realized how demanding the job actually was. Many of the dogs and cats had been abandoned and were nervous around new people, so I had to move slowly and speak softly to earn their trust. By the end of the week, I was exhausted, but I also felt something I hadn't expected \u2014 a strong sense of purpose. I realized that patience, not speed, was the most valuable skill a volunteer could have.",
+    "question": "What lesson did the writer learn from this experience?",
+    "options": [
+      "Volunteering is easy and requires no particular skill",
+      "Patience is more valuable than speed when helping animals",
+      "Dogs are easier to care for than cats",
+      "Volunteers should avoid becoming emotionally attached"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The writer states directly that \"patience, not speed, was the most valuable skill a volunteer could have,\" which is the lesson learned."
+  },
+  {
+    "id": "read-b2-01",
+    "skill": "Reading",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Media and Technology",
+    "passage": "It has become fashionable to blame social media for the decline in young people's attention spans, and there is no shortage of evidence to support this view. Yet framing the issue purely as a battle between phones and books oversimplifies a far more complicated picture. Attention, after all, has always been shaped by the tools people use to think \u2014 the printing press, the newspaper, and even the novel each altered how societies processed information in their own eras. What is different today is not that our attention is shrinking, but that the platforms competing for it are engineered, often deliberately, to be difficult to put down. The real question, then, is not whether technology changes us \u2014 it always has \u2014 but whether the people designing it are being honest about their intentions.",
+    "question": "What is the author's main argument in this passage?",
+    "options": [
+      "Social media is entirely responsible for shortened attention spans",
+      "The debate over attention spans oversimplifies a more complex historical pattern",
+      "Newspapers have always been more harmful than social media",
+      "Young people should stop using phones completely"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The author states that framing the issue as phones versus books \"oversimplifies a far more complicated picture,\" which is the central argument."
+  },
+  {
+    "id": "read-b2-02",
+    "skill": "Reading",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Media and Technology",
+    "passage": "It has become fashionable to blame social media for the decline in young people's attention spans, and there is no shortage of evidence to support this view. Yet framing the issue purely as a battle between phones and books oversimplifies a far more complicated picture. Attention, after all, has always been shaped by the tools people use to think \u2014 the printing press, the newspaper, and even the novel each altered how societies processed information in their own eras. What is different today is not that our attention is shrinking, but that the platforms competing for it are engineered, often deliberately, to be difficult to put down. The real question, then, is not whether technology changes us \u2014 it always has \u2014 but whether the people designing it are being honest about their intentions.",
+    "question": "What does the author imply about the people who design social media platforms?",
+    "options": [
+      "They are unaware of the effects their platforms have on users",
+      "They may be deliberately designing platforms to keep users engaged",
+      "They are actively trying to help people focus better",
+      "They have no real control over how their platforms are used"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The author writes that platforms are \"engineered, often deliberately, to be difficult to put down,\" implying intentional design to hold attention."
+  },
+  {
+    "id": "read-b2-03",
+    "skill": "Reading",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Media and Technology",
+    "passage": "It has become fashionable to blame social media for the decline in young people's attention spans, and there is no shortage of evidence to support this view. Yet framing the issue purely as a battle between phones and books oversimplifies a far more complicated picture. Attention, after all, has always been shaped by the tools people use to think \u2014 the printing press, the newspaper, and even the novel each altered how societies processed information in their own eras. What is different today is not that our attention is shrinking, but that the platforms competing for it are engineered, often deliberately, to be difficult to put down. The real question, then, is not whether technology changes us \u2014 it always has \u2014 but whether the people designing it are being honest about their intentions.",
+    "question": "In this passage, the word \"oversimplifies\" most nearly means:",
+    "options": [
+      "Makes something seem too easy to understand accurately",
+      "Explains something in great, careful detail",
+      "Ignores a topic completely",
+      "Criticizes something unfairly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "\"Oversimplifies\" means to present something as simpler than it truly is, losing important complexity — matching \"makes something seem too easy to understand accurately.\""
+  },
+  {
+    "id": "read-b2-04",
+    "skill": "Reading",
+    "cefrLevel": "B2",
+    "difficulty": "easy",
+    "topic": "Climate and Society",
+    "passage": "Mongolia's herders have long adapted their lives to an unforgiving climate, moving livestock across the steppe in response to seasonal changes. In recent decades, however, the frequency of dzud \u2014 a combination of summer drought and severe winter that leaves livestock unable to find food \u2014 has increased, and many scientists link this trend to broader climate change. What makes the situation particularly difficult is not simply that dzud events occur more often, but that traditional strategies for coping with them, developed over centuries of relatively predictable weather, are proving less reliable as the climate itself becomes less consistent. Some herding families have begun combining traditional knowledge with modern tools, such as satellite weather forecasts, in an effort to anticipate disasters before they strike.",
+    "question": "According to the passage, what is dzud?",
+    "options": [
+      "A type of livestock disease",
+      "A combination of summer drought and severe winter conditions",
+      "A government herding policy",
+      "A traditional Mongolian festival"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage defines dzud as \"a combination of summer drought and severe winter that leaves livestock unable to find food.\""
+  },
+  {
+    "id": "read-b2-05",
+    "skill": "Reading",
+    "cefrLevel": "B2",
+    "difficulty": "hard",
+    "topic": "Climate and Society",
+    "passage": "Mongolia's herders have long adapted their lives to an unforgiving climate, moving livestock across the steppe in response to seasonal changes. In recent decades, however, the frequency of dzud \u2014 a combination of summer drought and severe winter that leaves livestock unable to find food \u2014 has increased, and many scientists link this trend to broader climate change. What makes the situation particularly difficult is not simply that dzud events occur more often, but that traditional strategies for coping with them, developed over centuries of relatively predictable weather, are proving less reliable as the climate itself becomes less consistent. Some herding families have begun combining traditional knowledge with modern tools, such as satellite weather forecasts, in an effort to anticipate disasters before they strike.",
+    "question": "Why are traditional coping strategies becoming less reliable, according to the passage?",
+    "options": [
+      "Herders have completely stopped using them",
+      "The weather patterns they were based on are becoming less predictable",
+      "The government has banned traditional herding methods",
+      "Herders no longer have access to livestock"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage states these strategies were \"developed over centuries of relatively predictable weather\" and are proving less reliable \"as the climate itself becomes less consistent.\""
+  },
+  {
+    "id": "read-b2-06",
+    "skill": "Reading",
+    "cefrLevel": "B2",
+    "difficulty": "medium",
+    "topic": "Climate and Society",
+    "passage": "Mongolia's herders have long adapted their lives to an unforgiving climate, moving livestock across the steppe in response to seasonal changes. In recent decades, however, the frequency of dzud \u2014 a combination of summer drought and severe winter that leaves livestock unable to find food \u2014 has increased, and many scientists link this trend to broader climate change. What makes the situation particularly difficult is not simply that dzud events occur more often, but that traditional strategies for coping with them, developed over centuries of relatively predictable weather, are proving less reliable as the climate itself becomes less consistent. Some herding families have begun combining traditional knowledge with modern tools, such as satellite weather forecasts, in an effort to anticipate disasters before they strike.",
+    "question": "What is the main purpose of this passage?",
+    "options": [
+      "To criticize herders for not adapting quickly enough",
+      "To explain how climate change affects traditional herding and how herders are responding",
+      "To argue that satellite technology should fully replace traditional knowledge",
+      "To describe a festival celebrating Mongolian herders"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage explains the growing challenge of dzud linked to climate change and describes how herders combine tradition with modern tools, so its purpose is explanatory, not critical or celebratory."
+  }
+]

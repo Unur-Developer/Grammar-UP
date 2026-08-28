@@ -1,0 +1,90 @@
+[
+  {
+    "year": 2021,
+    "version": "A",
+    "sectionStructure": "PART I (Grammar, Vocabulary, Communication, Reading, 4 sections) + PART II (4 tasks)",
+    "pointDistribution": "Grammar 32 (A6x1+B6x2+C4x2+D3x2); Vocabulary 20 (A5x1+B4x2+C3x2+D1x1); Communication 8 (4x2); Reading 20 (A4x2+B2x2+C4x2); PART II 20 (4 tasks x5x1) — total ~100",
+    "questionCount": "~46 (PART I) + 20 (PART II) = ~66",
+    "timeIfAvailable": "Not stated in visible pages",
+    "formatChanges": "Baseline structure used for cross-year comparison (2021 Variation A)",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "version": "B",
+    "sectionStructure": "Source describes this variation as structurally 'nearly identical' to Variation A — not independently itemized",
+    "pointDistribution": "Assumed same as Variation A (~100 pts total) — not independently confirmed in source",
+    "questionCount": "Assumed same as Variation A (~66) — not independently confirmed",
+    "timeIfAvailable": "Not stated",
+    "formatChanges": "No independent structural detail beyond the source's 'nearly identical to A' note",
+    "sourceStatus": "inferred",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "version": "C",
+    "sectionStructure": "Source describes this variation as structurally 'nearly identical' to Variation A — not independently itemized",
+    "pointDistribution": "Assumed same as Variation A (~100 pts total) — not independently confirmed in source",
+    "questionCount": "Assumed same as Variation A (~66) — not independently confirmed",
+    "timeIfAvailable": "Not stated",
+    "formatChanges": "No independent structural detail beyond the source's 'nearly identical to A' note",
+    "sourceStatus": "inferred",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "version": "D",
+    "sectionStructure": "Source describes this variation as structurally 'nearly identical' to Variation A — not independently itemized",
+    "pointDistribution": "Assumed same as Variation A (~100 pts total) — not independently confirmed in source",
+    "questionCount": "Assumed same as Variation A (~66) — not independently confirmed",
+    "timeIfAvailable": "Not stated",
+    "formatChanges": "No independent structural detail beyond the source's 'nearly identical to A' note",
+    "sourceStatus": "inferred",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "version": "A",
+    "sectionStructure": "Compilation covering 2018-2020. PART I (Grammar, Vocabulary, Communication, Reading, 4 sections) + PART II (4 tasks)",
+    "pointDistribution": "Grammar 26 (12x1+4x2+3x2); Vocabulary 32 (9x2+4x2+3x2); Communication 10 (5x2); Reading 12 (6x2); PART II 20 (4 tasks x5x1) — total ~100",
+    "questionCount": "~46 (PART I) + 20 (PART II) = ~66",
+    "timeIfAvailable": "Grammar 15 min; Vocabulary 20 min; Communication 10 min; Reading 15 min; PART II 20 min",
+    "formatChanges": "Vocabulary point share higher than 2021 (32 vs 20); Reading point share lower than 2021 (12 vs 20)",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "version": "B",
+    "sectionStructure": "Noted in source as a visible variation, but not independently detailed beyond Variation A",
+    "pointDistribution": "Assumed same as Variation A (~100 pts total) — not independently confirmed",
+    "questionCount": "Assumed same as Variation A (~66) — not independently confirmed",
+    "timeIfAvailable": "Assumed same as Variation A — not independently confirmed",
+    "formatChanges": "No independent structural detail provided in source",
+    "sourceStatus": "inferred",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "version": "C",
+    "sectionStructure": "Noted in source as a visible variation, but not independently detailed beyond Variation A",
+    "pointDistribution": "Assumed same as Variation A (~100 pts total) — not independently confirmed",
+    "questionCount": "Assumed same as Variation A (~66) — not independently confirmed",
+    "timeIfAvailable": "Assumed same as Variation A — not independently confirmed",
+    "formatChanges": "No independent structural detail provided in source",
+    "sourceStatus": "inferred",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "version": "A",
+    "sectionStructure": "PART I (Grammar, Vocabulary, Communication, Reading) + PART II + PART III (Listening) — only observed year with a Listening section",
+    "pointDistribution": "Grammar 12 (12x1); Vocabulary ~30 (Task1 6x2+Task2 3x2+Task3 4x2+Task4 2x2); Communication 10 (5x2); Reading 16 (8x2); PART II 20 (4 tasks x5x1); Listening 12 (6x2) — total ~100",
+    "questionCount": "Grammar 12 + Vocabulary 15 + Communication 5 + Reading 8 + PART II 20 + Listening 6 = ~66",
+    "timeIfAvailable": "Grammar 10 min; Vocabulary 15 min; Communication 5 min; Reading 20 min; PART II 20 min; Listening 10 min",
+    "formatChanges": "Only observed year with a Listening section (PART III); Vocabulary split into 4 tasks rather than A/B/C/D point-groups",
+    "sourceStatus": "source-observed",
+    "correctAnswer": "Not provided in source PDF"
+  }
+]

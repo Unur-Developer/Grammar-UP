@@ -1,0 +1,172 @@
+[
+  {
+    "taskType": "Personality adjective matching",
+    "topic": "Personality traits matched to situations",
+    "skill": "Contextual choice",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "taskType": "Quantifier / container matching",
+    "topic": "Quantifier + container (a scoop of, a loaf of, a bunch of…)",
+    "skill": "Collocation",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "taskType": "Word formation / Word family",
+    "topic": "Word family transformation (geographic -> geographical; complete -> completely; climate -> climatic)",
+    "skill": "Word formation",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "taskType": "Synonym / phrase matching in context",
+    "topic": "Contextual synonym/phrase matching (date / went out with / broke up / serious relationship / got to know)",
+    "skill": "Synonym / Contextual choice",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "taskType": "Linking words / Conjunctions",
+    "topic": "Linking word selection",
+    "skill": "Contextual choice",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "taskType": "Definition matching",
+    "topic": "Definition-to-word matching",
+    "skill": "Contextual choice",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "taskType": "Situation -> Advice / conditional suggestion",
+    "topic": "Giving advice based on a situation",
+    "skill": "Functional matching",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "taskType": "Dialogue completion",
+    "topic": "Completing a short dialogue",
+    "skill": "Functional matching",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "taskType": "Adjective gap-fill",
+    "topic": "Personality inferred from appearance",
+    "skill": "Contextual choice",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "taskType": "Sentence ending matching",
+    "topic": "Matching sentence halves (conditionals, purpose)",
+    "skill": "Contextual choice",
+    "points": 1,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "pattern": "Recurring task type across all three observed years (per source aggregate analysis)",
+    "sourceStatus": "source-observed",
+    "note": "Points=1 confirmed: PART II is uniformly 4 tasks x 5 items x 1pt = 20pts total, consistent across 2019-2021.",
+    "correctAnswer": "Not provided in source PDF"
+  }
+]

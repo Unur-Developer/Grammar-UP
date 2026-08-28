@@ -1,0 +1,952 @@
+[
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q1",
+    "topic": "Articles",
+    "subtopic": "a/an/the/zero",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "low-medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Countable vs uncountable / specificity",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q2",
+    "topic": "Comparison",
+    "subtopic": "more + adj / most / adverb form",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Comparative vs superlative form confusion",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q3",
+    "topic": "Adjective order",
+    "subtopic": "opinion-size-age-shape-colour-origin-material-purpose",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Wrong adjective sequence",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q4",
+    "topic": "Comparison",
+    "subtopic": "twice as … as",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Multiplier comparison structure",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q5",
+    "topic": "Adverb vs Adjective",
+    "subtopic": "Form confusion (fluent/fluently)",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Adjective used where adverb required",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q6",
+    "topic": "Relative clauses",
+    "subtopic": "whose",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Relative pronoun (possessive) confusion",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q7",
+    "topic": "Tenses",
+    "subtopic": "Present continuous (future arrangements)",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Tense form vs meaning (future use)",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q8",
+    "topic": "Tenses",
+    "subtopic": "Present simple (habits)",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Tense form vs meaning (habitual use)",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q9",
+    "topic": "Tenses",
+    "subtopic": "Present perfect",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Tense form vs meaning",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q10",
+    "topic": "Tenses",
+    "subtopic": "Present perfect continuous",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Tense form vs meaning",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q11",
+    "topic": "Tenses",
+    "subtopic": "Past simple",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Tense form vs meaning",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q12",
+    "topic": "Tenses",
+    "subtopic": "used to",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "used to vs be used to",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q13",
+    "topic": "Passive voice",
+    "subtopic": "Passive voice",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Active vs passive form",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q14",
+    "topic": "Passive voice",
+    "subtopic": "Passive voice",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Active vs passive form",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q15",
+    "topic": "Reported speech",
+    "subtopic": "Backshift",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Reported-speech backshift failure",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q16",
+    "topic": "Conditionals",
+    "subtopic": "Type 3",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Wrong conditional type/form",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q17",
+    "topic": "Error identification",
+    "subtopic": "Countable/uncountable quantifiers (much vs many)",
+    "questionType": "Error identification",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "much -> many",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q18",
+    "topic": "Error identification",
+    "subtopic": "Relative pronoun choice (which vs who)",
+    "questionType": "Error identification",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "which -> who",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2021,
+    "section": "Grammar",
+    "questionRef": "2021-A-Q19",
+    "topic": "Error identification",
+    "subtopic": "Uncountable noun (information)",
+    "questionType": "Error identification",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2021
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "informations -> information",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (A=Q1-6 1pt, B/C/D=Q7-19 2pt) inferred from stated subgroup counts (A6xB6xC4xD3=19), not explicitly stated per question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q1",
+    "topic": "Quantifiers",
+    "subtopic": "some / any / a / an / many",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "low",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Quantifier selection",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q2",
+    "topic": "Prepositions",
+    "subtopic": "on Christmas Eve",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "low",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Preposition of time",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q3",
+    "topic": "Prepositions",
+    "subtopic": "by car",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "low",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Preposition of means/transport",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q4",
+    "topic": "Modals",
+    "subtopic": "must",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "low-medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Modal of obligation",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q5",
+    "topic": "Comparison",
+    "subtopic": "Comparison",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Comparative/superlative form",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q6",
+    "topic": "Tenses",
+    "subtopic": "Present simple vs continuous",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Tense form vs meaning",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q7",
+    "topic": "Tenses",
+    "subtopic": "used to",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "used to vs be used to",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q8",
+    "topic": "Articles",
+    "subtopic": "the moon (unique-reference the)",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "low-medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Article with unique nouns",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q9",
+    "topic": "Gerund/Infinitive",
+    "subtopic": "Gerund after keep",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Verb pattern after keep",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q10",
+    "topic": "Pronouns/Reflexives",
+    "subtopic": "Pronoun / reflexive form",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Pronoun vs reflexive confusion",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q11",
+    "topic": "Question tags",
+    "subtopic": "shall we",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Question tag form",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q12",
+    "topic": "Passive voice",
+    "subtopic": "Passive voice",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Active vs passive form",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q13",
+    "topic": "Reported speech",
+    "subtopic": "Reported speech",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Reported-speech backshift",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q14",
+    "topic": "Conditionals",
+    "subtopic": "Type 2",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Wrong conditional type/form",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q15",
+    "topic": "Linking words",
+    "subtopic": "because",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Conjunction/linking choice",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q16",
+    "topic": "Relative clauses",
+    "subtopic": "Relative pronoun",
+    "questionType": "Gap-fill MCQ",
+    "points": 2,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Relative pronoun confusion",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q17",
+    "topic": "Error identification",
+    "subtopic": "Possessive form (Australia's)",
+    "questionType": "Error identification",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Possessive 's error",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q18",
+    "topic": "Error identification",
+    "subtopic": "Verb form (asking -> asked)",
+    "questionType": "Error identification",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Non-finite vs finite verb form",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2020,
+    "section": "Grammar",
+    "questionRef": "2020-A-Q19",
+    "topic": "Error identification",
+    "subtopic": "Causative (had him transferred)",
+    "questionType": "Error identification",
+    "points": 2,
+    "difficulty": "high",
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Causative structure error",
+    "sourceStatus": "inferred",
+    "note": "Topic/subtopic content is source-observed (explicit per-question example in analysis); exact points value assumes sequential Q-to-subgroup mapping (12x1 + 4x2 + 3x2=19) inferred from stated subgroup counts, not explicitly stated per individual question.",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q1",
+    "topic": "Prepositions",
+    "subtopic": "Prepositions of time",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q2",
+    "topic": "Tenses",
+    "subtopic": "Present simple vs continuous",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q3",
+    "topic": "Tenses",
+    "subtopic": "Past simple",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q4",
+    "topic": "Tenses",
+    "subtopic": "Present perfect",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q5",
+    "topic": "Tenses",
+    "subtopic": "Future arrangements + infinitive",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q6",
+    "topic": "Relative clauses",
+    "subtopic": "Relative pronoun",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q7",
+    "topic": "Modals",
+    "subtopic": "Modal of past ability",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q8",
+    "topic": "Gerund/Infinitive",
+    "subtopic": "Infinitive after want",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q9",
+    "topic": "Passive voice",
+    "subtopic": "Passive voice",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q10",
+    "topic": "Comparison",
+    "subtopic": "Comparison",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q11",
+    "topic": "Conditionals",
+    "subtopic": "Type 1",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "year": 2019,
+    "section": "Grammar",
+    "questionRef": "2019-A-Q12",
+    "topic": "Reported speech",
+    "subtopic": "Reported question word order",
+    "questionType": "Gap-fill MCQ",
+    "points": 1,
+    "difficulty": "medium",
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "MUST MASTER",
+    "trapPattern": "Not detailed per-item in source for 2019",
+    "sourceStatus": "source-observed",
+    "note": "Points value confirmed by source (12 items x 1pt = 12 total for 2019 Grammar section).",
+    "correctAnswer": "Not provided in source PDF"
+  }
+]

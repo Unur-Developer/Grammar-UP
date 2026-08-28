@@ -1,0 +1,142 @@
+[
+  {
+    "situation": "Invitation / Suggestion",
+    "function": "Suggesting / Inviting",
+    "phrasePattern": "Do you fancy… / How about…",
+    "questionType": "Functional response selection",
+    "points": 2,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "HIGH",
+    "distractorPattern": "Wrong register / wrong function (e.g. thanks vs invitation) / literal vs idiomatic response",
+    "sourceStatus": "source-observed",
+    "note": "Points=2 confirmed: Communication section is uniformly 2pt items across all three years (2021 4x2=8; 2020 5x2=10; 2019 5x2=10).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "situation": "Knowledge / Ignorance",
+    "function": "Expressing lack of knowledge",
+    "phrasePattern": "I haven't a clue",
+    "questionType": "Functional response selection",
+    "points": 2,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "HIGH",
+    "distractorPattern": "Wrong register / wrong function (e.g. thanks vs invitation) / literal vs idiomatic response",
+    "sourceStatus": "source-observed",
+    "note": "Points=2 confirmed: Communication section is uniformly 2pt items across all three years (2021 4x2=8; 2020 5x2=10; 2019 5x2=10).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "situation": "Opinion / Agreement",
+    "function": "Stating opinion / agreeing",
+    "phrasePattern": "I strongly believe…",
+    "questionType": "Functional response selection",
+    "points": 2,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "HIGH",
+    "distractorPattern": "Wrong register / wrong function (e.g. thanks vs invitation) / literal vs idiomatic response",
+    "sourceStatus": "source-observed",
+    "note": "Points=2 confirmed: Communication section is uniformly 2pt items across all three years (2021 4x2=8; 2020 5x2=10; 2019 5x2=10).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "situation": "Problem / Help",
+    "function": "Offering help / asking about a problem",
+    "phrasePattern": "How can I help you? / What is the problem exactly?",
+    "questionType": "Functional response selection",
+    "points": 2,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "HIGH",
+    "distractorPattern": "Wrong register / wrong function (e.g. thanks vs invitation) / literal vs idiomatic response",
+    "sourceStatus": "source-observed",
+    "note": "Points=2 confirmed: Communication section is uniformly 2pt items across all three years (2021 4x2=8; 2020 5x2=10; 2019 5x2=10).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "situation": "Thanks / Response",
+    "function": "Responding to thanks",
+    "phrasePattern": "Don't mention it",
+    "questionType": "Functional response selection",
+    "points": 2,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "HIGH",
+    "distractorPattern": "Wrong register / wrong function (e.g. thanks vs invitation) / literal vs idiomatic response",
+    "sourceStatus": "source-observed",
+    "note": "Points=2 confirmed: Communication section is uniformly 2pt items across all three years (2021 4x2=8; 2020 5x2=10; 2019 5x2=10).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "situation": "Quantity / Request",
+    "function": "Asking about quantity / making a request",
+    "phrasePattern": "Not detailed further in source",
+    "questionType": "Functional response selection",
+    "points": 2,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "priority": "HIGH",
+    "distractorPattern": "Wrong register / wrong function (e.g. thanks vs invitation) / literal vs idiomatic response",
+    "sourceStatus": "source-observed",
+    "note": "Points=2 confirmed: Communication section is uniformly 2pt items across all three years (2021 4x2=8; 2020 5x2=10; 2019 5x2=10).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "situation": "Debate / Self-introduction",
+    "function": "Introducing oneself / debating a point",
+    "phrasePattern": "Not detailed further in source",
+    "questionType": "Functional response selection",
+    "points": 2,
+    "frequency": "High",
+    "yearsAppeared": [
+      2020
+    ],
+    "priority": "HIGH",
+    "distractorPattern": "Wrong register / wrong function (e.g. thanks vs invitation) / literal vs idiomatic response",
+    "sourceStatus": "source-observed",
+    "note": "Points=2 confirmed: Communication section is uniformly 2pt items across all three years (2021 4x2=8; 2020 5x2=10; 2019 5x2=10).",
+    "correctAnswer": "Not provided in source PDF"
+  },
+  {
+    "situation": "Matching question to answer",
+    "function": "Matching a question to its appropriate response",
+    "phrasePattern": "Not detailed further in source",
+    "questionType": "Functional response selection",
+    "points": 2,
+    "frequency": "High",
+    "yearsAppeared": [
+      2019
+    ],
+    "priority": "HIGH",
+    "distractorPattern": "Wrong register / wrong function (e.g. thanks vs invitation) / literal vs idiomatic response",
+    "sourceStatus": "source-observed",
+    "note": "Points=2 confirmed: Communication section is uniformly 2pt items across all three years (2021 4x2=8; 2020 5x2=10; 2019 5x2=10).",
+    "correctAnswer": "Not provided in source PDF"
+  }
+]
